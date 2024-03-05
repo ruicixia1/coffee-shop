@@ -1,0 +1,1118 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.081249,
+                    51.499381
+                ]
+            },
+            "properties": {
+                "name": "Fuckoffee",
+                "longitude": -0.0812485,
+                "latitude": 51.4993814,
+                "address": [
+                    "163-167 Bermondsey Street",
+                    "London SE1 3UW",
+                    "United Kingdom"
+                ],
+                "rating": 4.3,
+                "url": "https://www.yelp.com/biz/fuckoffee-london-3?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137085,
+                    51.523831
+                ]
+            },
+            "properties": {
+                "name": "Tap Coffee No.114",
+                "longitude": -0.137085,
+                "latitude": 51.523831,
+                "address": [
+                    "114 Tottenham Court Road",
+                    "London W1T 5AQ",
+                    "United Kingdom"
+                ],
+                "rating": 4.9,
+                "url": "https://www.yelp.com/biz/tap-coffee-no-114-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126917,
+                    51.514354
+                ]
+            },
+            "properties": {
+                "name": "Monmouth Coffee",
+                "longitude": -0.1269168,
+                "latitude": 51.5143539,
+                "address": [
+                    "27 Monmouth Street",
+                    "London WC2H 9EU",
+                    "United Kingdom"
+                ],
+                "rating": 4.4,
+                "url": "https://www.yelp.com/biz/monmouth-coffee-london-3?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.30523,
+                    51.46048
+                ]
+            },
+            "properties": {
+                "name": "Kiss the Hippo Coffee",
+                "longitude": -0.305230444180324,
+                "latitude": 51.4604800581688,
+                "address": [
+                    "50 George Street",
+                    "Richmond TW9 1HJ",
+                    "United Kingdom"
+                ],
+                "rating": 4.6,
+                "url": "https://www.yelp.com/biz/kiss-the-hippo-coffee-richmond?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.132696,
+                    51.509238
+                ]
+            },
+            "properties": {
+                "name": "Ole and Steen",
+                "longitude": -0.1326965,
+                "latitude": 51.509238,
+                "address": [
+                    "56 Haymarket",
+                    "No 2 St James's Market",
+                    "London SW1Y 4RP",
+                    "United Kingdom"
+                ],
+                "rating": 4.4,
+                "url": "https://www.yelp.com/biz/ole-and-steen-london-2?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124048,
+                    51.522921
+                ]
+            },
+            "properties": {
+                "name": "Fortitude Bakehouse",
+                "longitude": -0.124047992374525,
+                "latitude": 51.5229210884015,
+                "address": [
+                    "35 Colonnade",
+                    "London WC1N 1DD",
+                    "United Kingdom"
+                ],
+                "rating": 4.4,
+                "url": "https://www.yelp.com/biz/fortitude-bakehouse-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131281,
+                    51.523043
+                ]
+            },
+            "properties": {
+                "name": "Lever & Bloom Coffee",
+                "longitude": -0.131281057871795,
+                "latitude": 51.5230426066091,
+                "address": [
+                    "Byng Place",
+                    "Bloomsbury",
+                    "London WC1E 7JJ",
+                    "United Kingdom"
+                ],
+                "rating": 4.5,
+                "url": "https://www.yelp.com/biz/lever-and-bloom-coffee-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.146446,
+                    51.506194
+                ]
+            },
+            "properties": {
+                "name": "Caffe In",
+                "longitude": -0.146446,
+                "latitude": 51.506194,
+                "address": [
+                    "3 Shepherd Street",
+                    "London W1J 7HL",
+                    "United Kingdom"
+                ],
+                "rating": 4.5,
+                "url": "https://www.yelp.com/biz/caffe-in-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13479,
+                    51.516566
+                ]
+            },
+            "properties": {
+                "name": "Omotesando Koffee",
+                "longitude": -0.134790412002872,
+                "latitude": 51.5165656647651,
+                "address": [
+                    "8 Newman Street",
+                    "London W1T 1PB",
+                    "United Kingdom"
+                ],
+                "rating": 4.5,
+                "url": "https://www.yelp.com/biz/omotesando-koffee-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.19152,
+                    51.50195
+                ]
+            },
+            "properties": {
+                "name": "Knoops",
+                "longitude": -0.19152,
+                "latitude": 51.50195,
+                "address": [
+                    "80 Kensington High Street",
+                    "London W8 4SG",
+                    "United Kingdom"
+                ],
+                "rating": 4.7,
+                "url": "https://www.yelp.com/biz/knoops-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126723,
+                    51.509554
+                ]
+            },
+            "properties": {
+                "name": "Notes",
+                "longitude": -0.1267229,
+                "latitude": 51.5095536,
+                "address": [
+                    "31 St Martin's Lane",
+                    "London WC2N 4ER",
+                    "United Kingdom"
+                ],
+                "rating": 4.1,
+                "url": "https://www.yelp.com/biz/notes-london-4?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.160908,
+                    51.514461
+                ]
+            },
+            "properties": {
+                "name": "The Borough Barista",
+                "longitude": -0.16090849657059,
+                "latitude": 51.514461025878,
+                "address": [
+                    "60A Seymour Street",
+                    "London W1H 7JN",
+                    "United Kingdom"
+                ],
+                "rating": 4.3,
+                "url": "https://www.yelp.com/biz/the-borough-barista-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.156683,
+                    51.520798
+                ]
+            },
+            "properties": {
+                "name": "106 Baker St",
+                "longitude": -0.1566825,
+                "latitude": 51.5207977,
+                "address": [
+                    "106 Baker Street",
+                    "London W1U 6TW",
+                    "United Kingdom"
+                ],
+                "rating": 4.5,
+                "url": "https://www.yelp.com/biz/106-baker-st-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.138379,
+                    51.512154
+                ]
+            },
+            "properties": {
+                "name": "Soho Grind",
+                "longitude": -0.138379,
+                "latitude": 51.512154,
+                "address": [
+                    "19 Beak Street",
+                    "Soho",
+                    "London W1F 9RP",
+                    "United Kingdom"
+                ],
+                "rating": 4.2,
+                "url": "https://www.yelp.com/biz/soho-grind-london-2?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.174049,
+                    51.534652
+                ]
+            },
+            "properties": {
+                "name": "Beatles Coffee Shop",
+                "longitude": -0.174049176031857,
+                "latitude": 51.5346523696246,
+                "address": [
+                    "St John's Wood Underground Station",
+                    "Finchley Road",
+                    "London NW3 6HY",
+                    "United Kingdom"
+                ],
+                "rating": 4.8,
+                "url": "https://www.yelp.com/biz/beatles-coffee-shop-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126389,
+                    51.525251
+                ]
+            },
+            "properties": {
+                "name": "Bloomsbury Coffee House",
+                "longitude": -0.126389201213277,
+                "latitude": 51.525250540481,
+                "address": [
+                    "20 Tavistock Place",
+                    "London WC1H 9RE",
+                    "United Kingdom"
+                ],
+                "rating": 4.2,
+                "url": "https://www.yelp.com/biz/bloomsbury-coffee-house-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.121452,
+                    51.530958
+                ]
+            },
+            "properties": {
+                "name": "Black Sheep Coffee",
+                "longitude": -0.1214523,
+                "latitude": 51.5309577,
+                "address": [
+                    "282 Pentonville Road",
+                    "London N1 9NR",
+                    "United Kingdom"
+                ],
+                "rating": 5.0,
+                "url": "https://www.yelp.com/biz/black-sheep-coffee-london-40?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.091462,
+                    51.505538
+                ]
+            },
+            "properties": {
+                "name": "Monmouth Coffee",
+                "longitude": -0.0914615294783139,
+                "latitude": 51.5055383383613,
+                "address": [
+                    "2 Park Street",
+                    "The Borough",
+                    "London SE1 9AB",
+                    "United Kingdom"
+                ],
+                "rating": 4.4,
+                "url": "https://www.yelp.com/biz/monmouth-coffee-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102642,
+                    51.513426
+                ]
+            },
+            "properties": {
+                "name": "Alchemy",
+                "longitude": -0.102642286734127,
+                "latitude": 51.5134264160446,
+                "address": [
+                    "8 Ludgate Broadway",
+                    "London EC4V 6DU",
+                    "United Kingdom"
+                ],
+                "rating": 4.8,
+                "url": "https://www.yelp.com/biz/alchemy-london-5?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126817,
+                    51.517868
+                ]
+            },
+            "properties": {
+                "name": "Tea and Tattle",
+                "longitude": -0.126817002892494,
+                "latitude": 51.5178680419922,
+                "address": [
+                    "41 Great Russell Street",
+                    "London WC1B 3PE",
+                    "United Kingdom"
+                ],
+                "rating": 4.4,
+                "url": "https://www.yelp.com/biz/tea-and-tattle-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14037,
+                    51.51848
+                ]
+            },
+            "properties": {
+                "name": "Kaffeine",
+                "longitude": -0.14037,
+                "latitude": 51.51848,
+                "address": [
+                    "66 Great Titchfield Street",
+                    "London W1W 7QJ",
+                    "United Kingdom"
+                ],
+                "rating": 4.4,
+                "url": "https://www.yelp.com/biz/kaffeine-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.125575,
+                    51.522954
+                ]
+            },
+            "properties": {
+                "name": "Burr & Co Coffee",
+                "longitude": -0.125575233599962,
+                "latitude": 51.5229543444364,
+                "address": [
+                    "Russell Square",
+                    "Bernard Street",
+                    "London WC1B 5BE",
+                    "United Kingdom"
+                ],
+                "rating": 3.4,
+                "url": "https://www.yelp.com/biz/burr-and-co-coffee-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.081593,
+                    51.52454
+                ]
+            },
+            "properties": {
+                "name": "The Book Club",
+                "longitude": -0.0815927,
+                "latitude": 51.5245401,
+                "address": [
+                    "100 Leonard Street",
+                    "London EC2A 4RH",
+                    "United Kingdom"
+                ],
+                "rating": 3.7,
+                "url": "https://www.yelp.com/biz/the-book-club-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.086674,
+                    51.524684
+                ]
+            },
+            "properties": {
+                "name": "Ozone Coffee",
+                "longitude": -0.086674106560876,
+                "latitude": 51.524683689256,
+                "address": [
+                    "11 Leonard Street",
+                    "London EC2A 4AQ",
+                    "United Kingdom"
+                ],
+                "rating": 4.4,
+                "url": "https://www.yelp.com/biz/ozone-coffee-london-2?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12246,
+                    51.511048
+                ]
+            },
+            "properties": {
+                "name": "Covent Garden Grind",
+                "longitude": -0.122459969000028,
+                "latitude": 51.5110479046224,
+                "address": [
+                    "42 Maiden Lane",
+                    "Covent Garden",
+                    "London WC2E 7LJ",
+                    "United Kingdom"
+                ],
+                "rating": 4.4,
+                "url": "https://www.yelp.com/biz/covent-garden-grind-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.093507,
+                    51.512691
+                ]
+            },
+            "properties": {
+                "name": "Host Cafe",
+                "longitude": -0.0935071706771851,
+                "latitude": 51.5126908219997,
+                "address": [
+                    "Saint Mary Aldermary",
+                    "Watling Street",
+                    "London EC4M 9BW",
+                    "United Kingdom"
+                ],
+                "rating": 4.8,
+                "url": "https://www.yelp.com/biz/host-cafe-london-2?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.20077,
+                    51.512069
+                ]
+            },
+            "properties": {
+                "name": "Farm Girl Cafe",
+                "longitude": -0.200769876546774,
+                "latitude": 51.5120686916922,
+                "address": [
+                    "59A Portobello Road",
+                    "London W11 3DB",
+                    "United Kingdom"
+                ],
+                "rating": 3.8,
+                "url": "https://www.yelp.com/biz/farm-girl-cafe-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.094704,
+                    51.503842
+                ]
+            },
+            "properties": {
+                "name": "The Gentlemen Baristas",
+                "longitude": -0.0947035655992168,
+                "latitude": 51.503841999477,
+                "address": [
+                    "63 Union Street",
+                    "London SE1 1SG",
+                    "United Kingdom"
+                ],
+                "rating": 4.5,
+                "url": "https://www.yelp.com/biz/the-gentlemen-baristas-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129566,
+                    51.494744
+                ]
+            },
+            "properties": {
+                "name": "Ravello",
+                "longitude": -0.1295662,
+                "latitude": 51.4947441,
+                "address": [
+                    "Unit 18",
+                    "41 Horseferry Road",
+                    "London SW1P 2AA",
+                    "United Kingdom"
+                ],
+                "rating": 4.7,
+                "url": "https://www.yelp.com/biz/ravello-london-2?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.145425,
+                    51.512247
+                ]
+            },
+            "properties": {
+                "name": "Everbean",
+                "longitude": -0.1454249,
+                "latitude": 51.5122474,
+                "address": [
+                    "30 Avery Row",
+                    "London W1K 4BB",
+                    "United Kingdom"
+                ],
+                "rating": 4.3,
+                "url": "https://www.yelp.com/biz/everbean-london-2?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.150855,
+                    51.512964
+                ]
+            },
+            "properties": {
+                "name": "H R Higgins",
+                "longitude": -0.1508551,
+                "latitude": 51.5129642,
+                "address": [
+                    "79 Duke Street",
+                    "London W1K 5AS",
+                    "United Kingdom"
+                ],
+                "rating": 4.4,
+                "url": "https://www.yelp.com/biz/h-r-higgins-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.135406,
+                    51.514733
+                ]
+            },
+            "properties": {
+                "name": "The Breakfast Club",
+                "longitude": -0.135406,
+                "latitude": 51.514733,
+                "address": [
+                    "33 D'Arblay Street",
+                    "London W1F 8EU",
+                    "United Kingdom"
+                ],
+                "rating": 3.9,
+                "url": "https://www.yelp.com/biz/the-breakfast-club-london-2?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13405,
+                    51.519908
+                ]
+            },
+            "properties": {
+                "name": "Black Sheep Coffee",
+                "longitude": -0.1340499,
+                "latitude": 51.5199084,
+                "address": [
+                    "5-7 Goodge Street",
+                    "London W1T 2PD",
+                    "United Kingdom"
+                ],
+                "rating": 3.9,
+                "url": "https://www.yelp.com/biz/black-sheep-coffee-london-14?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.135314,
+                    51.510811
+                ]
+            },
+            "properties": {
+                "name": "Dirty Bones Soho",
+                "longitude": -0.135314,
+                "latitude": 51.510811,
+                "address": [
+                    "14 Denman Street",
+                    "London W1D 7HJ",
+                    "United Kingdom"
+                ],
+                "rating": 4.3,
+                "url": "https://www.yelp.com/biz/dirty-bones-soho-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.151029,
+                    51.444649
+                ]
+            },
+            "properties": {
+                "name": "Milk",
+                "longitude": -0.1510286,
+                "latitude": 51.444649,
+                "address": [
+                    "18-20 Bedford Hill",
+                    "London SW12 9RG",
+                    "United Kingdom"
+                ],
+                "rating": 4.5,
+                "url": "https://www.yelp.com/biz/milk-london-2?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.145319,
+                    51.53734
+                ]
+            },
+            "properties": {
+                "name": "The Coffee Jar",
+                "longitude": -0.145319216450743,
+                "latitude": 51.5373402066451,
+                "address": [
+                    "83 Parkway",
+                    "Camden",
+                    "London NW1 7PP",
+                    "United Kingdom"
+                ],
+                "rating": 4.4,
+                "url": "https://www.yelp.com/biz/the-coffee-jar-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137167,
+                    51.516873
+                ]
+            },
+            "properties": {
+                "name": "Kaffeine",
+                "longitude": -0.137167,
+                "latitude": 51.5168726,
+                "address": [
+                    "15 Eastcastle Street",
+                    "London W1T 3AY",
+                    "United Kingdom"
+                ],
+                "rating": 4.7,
+                "url": "https://www.yelp.com/biz/kaffeine-london-2?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.140493,
+                    51.516153
+                ]
+            },
+            "properties": {
+                "name": "Jolt Coffee",
+                "longitude": -0.140492980095612,
+                "latitude": 51.5161534827318,
+                "address": [
+                    "40-41 Great Castle Street",
+                    "London W1W 8LU",
+                    "United Kingdom"
+                ],
+                "rating": 5.0,
+                "url": "https://www.yelp.com/biz/jolt-coffee-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103128,
+                    51.541767
+                ]
+            },
+            "properties": {
+                "name": "Romeo's Sugar Free Bakery",
+                "longitude": -0.1031277,
+                "latitude": 51.5417671,
+                "address": [
+                    "178 Upper Street",
+                    "London N1 1RG",
+                    "United Kingdom"
+                ],
+                "rating": 3.8,
+                "url": "https://www.yelp.com/biz/romeos-sugar-free-bakery-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113815,
+                    51.500341
+                ]
+            },
+            "properties": {
+                "name": "Scooter Caffè",
+                "longitude": -0.11381534473676,
+                "latitude": 51.500341224864,
+                "address": [
+                    "132 Lower Marsh",
+                    "London SE1 7AE",
+                    "United Kingdom"
+                ],
+                "rating": 4.3,
+                "url": "https://www.yelp.com/biz/scooter-caff%C3%A8-london-2?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.155787,
+                    51.520333
+                ]
+            },
+            "properties": {
+                "name": "ArrO Coffee- The Temple of Coffee",
+                "longitude": -0.1557873,
+                "latitude": 51.520333,
+                "address": [
+                    "67 Chiltern St",
+                    "London W1U 6NJ",
+                    "United Kingdom"
+                ],
+                "rating": 4.0,
+                "url": "https://www.yelp.com/biz/arro-coffee-the-temple-of-coffee-london-2?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08105,
+                    51.498046
+                ]
+            },
+            "properties": {
+                "name": "The Watch House",
+                "longitude": -0.0810502413027092,
+                "latitude": 51.4980461313304,
+                "address": [
+                    "199 Bermondsey Street",
+                    "London SE1 3UW",
+                    "United Kingdom"
+                ],
+                "rating": 4.4,
+                "url": "https://www.yelp.com/biz/the-watch-house-london-5?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.141012,
+                    51.507617
+                ]
+            },
+            "properties": {
+                "name": "The Wolseley",
+                "longitude": -0.141012,
+                "latitude": 51.507617,
+                "address": [
+                    "160 Picadilly",
+                    "London W1J 9EB",
+                    "United Kingdom"
+                ],
+                "rating": 4.0,
+                "url": "https://www.yelp.com/biz/the-wolseley-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.148592,
+                    51.54264
+                ]
+            },
+            "properties": {
+                "name": "Pamban Chai & Coffee House",
+                "longitude": -0.148591679385618,
+                "latitude": 51.5426401615926,
+                "address": [
+                    "Chalk Farm Road",
+                    "North Yard",
+                    "Camden Market",
+                    "London NW1 8AH",
+                    "United Kingdom"
+                ],
+                "rating": 4.6,
+                "url": "https://www.yelp.com/biz/pamban-chai-and-coffee-house-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.136215,
+                    51.519121
+                ]
+            },
+            "properties": {
+                "name": "Fabrique Bakery",
+                "longitude": -0.136215056815711,
+                "latitude": 51.5191208284928,
+                "address": [
+                    "53 Goodge Street",
+                    "Fitzrovia W1T 1TG",
+                    "United Kingdom"
+                ],
+                "rating": 4.6,
+                "url": "https://www.yelp.com/biz/fabrique-bakery-fitzrovia?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.154667,
+                    51.518811
+                ]
+            },
+            "properties": {
+                "name": "The Monocle Cafe",
+                "longitude": -0.154666668198166,
+                "latitude": 51.5188109085709,
+                "address": [
+                    "18 Chiltern Street",
+                    "London W1U 7QA",
+                    "United Kingdom"
+                ],
+                "rating": 4.1,
+                "url": "https://www.yelp.com/biz/the-monocle-cafe-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124042,
+                    51.511769
+                ]
+            },
+            "properties": {
+                "name": "% Arabica",
+                "longitude": -0.124042443931103,
+                "latitude": 51.5117691581927,
+                "address": [
+                    "5 King Street",
+                    "London WC2E 8HN",
+                    "United Kingdom"
+                ],
+                "rating": 4.5,
+                "url": "https://www.yelp.com/biz/arabica-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.134773,
+                    51.513644
+                ]
+            },
+            "properties": {
+                "name": "Flat White",
+                "longitude": -0.134773,
+                "latitude": 51.513644,
+                "address": [
+                    "17 Berwick Street",
+                    "London W1F 0PT",
+                    "United Kingdom"
+                ],
+                "rating": 4.0,
+                "url": "https://www.yelp.com/biz/flat-white-london?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142626,
+                    51.517581
+                ]
+            },
+            "properties": {
+                "name": "Workshop Coffee",
+                "longitude": -0.142626,
+                "latitude": 51.517581,
+                "address": [
+                    "80 A Mortimer Street",
+                    "Fitzrovia",
+                    "London W1W 7FE",
+                    "United Kingdom"
+                ],
+                "rating": 4.4,
+                "url": "https://www.yelp.com/biz/workshop-coffee-london-2?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.227838,
+                    51.49266
+                ]
+            },
+            "properties": {
+                "name": "Bäkehaus",
+                "longitude": -0.227837562561035,
+                "latitude": 51.4926600176647,
+                "address": [
+                    "71 King Street",
+                    "London W6 9HW",
+                    "United Kingdom"
+                ],
+                "rating": 4.3,
+                "url": "https://www.yelp.com/biz/b%C3%A4kehaus-london-2?adjust_creative=ikAT47-cFuhGJ7LrpxWseQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ikAT47-cFuhGJ7LrpxWseQ"
+            }
+        }
+    ]
+}
